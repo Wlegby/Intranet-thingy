@@ -1,7 +1,7 @@
 {
   "tam": {
     "username": "alberic.grandidier",
-    "password_file": "pass",
+    "password_file": "tam-password.txt",
     "id": "4016589",
     "id_is_class": false,
     "school": "krm"
