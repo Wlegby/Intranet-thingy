@@ -13,6 +13,6 @@
   },
   "sync": {
     "weeks_past": 1,
-    "weeks_future": 5
+    "weeks_future": 10
   }
 }
