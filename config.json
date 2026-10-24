@@ -7,9 +7,13 @@
     "school": "krm"
   },
   "caldav": {
+    "enable": false,
     "calendar_url": "https://ignore-this.com",
     "username": "dummy",
     "password_file": "dummy.txt"
+  },
+  "ics": {
+    "enable": true
   },
   "sync": {
     "weeks_past": 1,
